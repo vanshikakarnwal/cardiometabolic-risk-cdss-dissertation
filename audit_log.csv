@@ -1,0 +1,12 @@
+Timestamp,Age,Gender,Diastolic_BP,Waist_Circumference,Predicted_Risk,Confidence,Race,eGFR,Smoking_Status,PA_Minutes,Model,Urgent_Flags
+2026-07-16 16:43:11,45,Male,80,90,Moderate,50.0,,,,,,
+2026-07-21 20:05:37,45,Male,80,90,Moderate,54.59999847412109,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-07-21 20:12:52,45,Male,80,90,Moderate,54.6,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-07-24 20:49:30,45,Male,80,90,Moderate,54.6,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-07-25 21:51:02,45,Male,80,90,Moderate,54.6,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-07-25 21:51:45,45,Male,80,90,Moderate,54.6,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-08-07 21:22:39,45,Male,80,90,Moderate,54.6,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-08-07 21:22:51,45,Male,80,90,Moderate,83.9,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-08-07 21:24:38,45,Male,80,90,Moderate,83.9,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-08-07 21:33:49,45,Male,80,90,Moderate,54.6,Mexican American,90.0,Never,150.0,XGBoost_V2,0.0
+2026-08-07 21:36:48,23,Female,80,70,Low,96.0,Other/Multi-Racial,90.0,Never,150.0,XGBoost_V2,0.0
